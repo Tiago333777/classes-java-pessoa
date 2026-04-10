@@ -1,4 +1,4 @@
-package [seunome];
+package [thiago];
 
 public class Pessoa {
 String nome;
